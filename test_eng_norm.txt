@@ -1,0 +1,99 @@
+# 1. 数字转换
+
+## 整数
+I have 42 apples | I have forty two apples
+There are 101 dalmatians | There are one hundred and one dalmatians
+The year 2023 | The year twenty twenty three
+
+## 小数
+Pi is approximately 3.14159 | Pi is approximately three point one four one five nine
+The temperature is -2.5 degrees | The temperature is negative two point five degrees
+
+## 分数
+1/2 of the cake is left | One half of the cake is left
+The ratio is 22/7 | The ratio is twenty two over seven
+
+## 序数
+He finished 1st in the race | He finished first in the race
+This is the 22nd floor | This is the twenty second floor
+
+## 罗马数字
+Chapter IV begins here | Chapter four begins here
+King Henry VIII ruled England | King Henry the Eighth ruled England
+
+## 大数字
+The population is 1,000,000 | The population is one million
+The distance is 1,500,000,000 km | The distance is one billion five hundred million kilometers
+
+## 数字范围
+Pages 5-10 are missing | Pages five to ten are missing
+Temperature range: 20-25°C | Temperature range: twenty to twenty five degrees Celsius
+
+# 2. 缩写和首字母缩略词
+
+## 常见缩写
+Dr. Smith will see you now | Doctor Smith will see you now
+Please contact Mr. Johnson | Please contact Mister Johnson
+
+## 计量单位
+The trip is 100 km long | The trip is one hundred kilometers long
+The package weighs 5 lbs | The package weighs five pounds
+
+## 时间相关缩写
+The meeting lasts 2 hrs | The meeting lasts two hours
+Arrive 15 mins early | Arrive fifteen minutes early
+
+## 头衔和敬称
+Prof. Brown gave a lecture | Professor Brown gave a lecture
+Capt. Rogers led the team | Captain Rogers led the team
+
+## 商业和组织缩写
+Apple Inc. released a new product | Apple Incorporated released a new product
+IBM announced new technology | I B M announced new technology
+
+## 首字母缩略词
+NASA launched a rocket | NASA launched a rocket
+The FBI investigated the case | The F B I investigated the case
+
+# 3. 日期和时间
+
+## 日期
+Meeting on 01/15/2023 | Meeting on January fifteenth, twenty twenty-three
+Born on 1995-07-20 | Born on July twentieth, nineteen ninety five
+
+## 时间
+The train departs at 15:30 | The train departs at fifteen thirty
+Breakfast is served at 7:00 AM | Breakfast is served at seven o'clock A M
+
+## 时区
+The call is scheduled for 2 PM EST | The call is scheduled for two P M Eastern Standard Time
+
+## 相对时间表达
+The event is next week | The event is next week
+I'll see you tomorrow at 3 | I'll see you tomorrow at three
+
+## 世纪和年代
+Fashion in the 21st century | Fashion in the twenty first century
+Music from the 1980s | Music from the nineteen eighties
+
+# 4. 符号和特殊字符
+
+## 货币符号
+The book costs $19.99 | The book costs nineteen dollars and ninety-nine cents
+It's on sale for £10.50 | It's on sale for ten pounds and fifty pence
+
+## 数学符号
+5 + 3 = 8 | Five plus three equals eight
+20% of the population | Twenty percent of the population
+
+## 标点符号
+Hello, world! | Hello world
+Is this correct? | Is this correct
+
+## 常见符号
+A&B Corporation | A and B Corporation
+Send email to info@example.com | Send email to info at example dot com
+
+## 网址和电子邮件地址元素
+Visit www.example.com for more info | Visit w w w dot example dot com for more info
+Contact us at support@company.com | Contact us at support at company dot com

@@ -1,0 +1,153 @@
+
+不匹配:
+输入: The temperature is -2.5 degrees
+输出: The temperature is minus two point five degrees
+预期: The temperature is negative two point five degrees
+
+不匹配:
+输入: 1/2 of the cake is left
+输出: one half of the cake is left
+预期: One half of the cake is left
+
+不匹配:
+输入: The ratio is 22/7
+输出: The ratio is twenty two sevenths
+预期: The ratio is twenty two over seven
+
+不匹配:
+输入: Chapter IV begins here
+输出: Chapter IV begins here
+预期: Chapter four begins here
+
+不匹配:
+输入: King Henry VIII ruled England
+输出: King Henry VIII ruled England
+预期: King Henry the Eighth ruled England
+
+不匹配:
+输入: Temperature range: 20-25°C
+输出: Temperature range: twenty to twenty five degrees Celsius
+预期: Temperature range: twenty to twenty-five degrees Celsius
+
+不匹配:
+输入: Dr. Smith will see you now
+输出: doctor Smith will see you now
+预期: Doctor Smith will see you now
+
+不匹配:
+输入: The meeting lasts 2 hrs
+输出: The meeting lasts two hrs
+预期: The meeting lasts two hours
+
+不匹配:
+输入: Arrive 15 mins early
+输出: Arrive fifteen mins early
+预期: Arrive fifteen minutes early
+
+不匹配:
+输入: Prof. Brown gave a lecture
+输出: Prof. Brown gave a lecture
+预期: Professor Brown gave a lecture
+
+不匹配:
+输入: Capt. Rogers led the team
+输出: captain Rogers led the team
+预期: Captain Rogers led the team
+
+不匹配:
+输入: Apple Inc. released a new product
+输出: Apple Inc. released a new product
+预期: Apple Incorporated released a new product
+
+不匹配:
+输入: IBM announced new technology
+输出: IBM announced new technology
+预期: I B M announced new technology
+
+不匹配:
+输入: The FBI investigated the case
+输出: The FBI investigated the case
+预期: The F B I investigated the case
+
+不匹配:
+输入: Meeting on 01/15/2023
+输出: Meeting on the fifteenth of january twenty twenty three
+预期: Meeting on January fifteenth, twenty twenty-three
+
+不匹配:
+输入: Born on 1995-07-20
+输出: Born on the twentieth of july nineteen ninety five
+预期: Born on July twentieth, nineteen ninety five
+
+不匹配:
+输入: Breakfast is served at 7:00 AM
+输出: Breakfast is served at seven AM
+预期: Breakfast is served at seven o'clock A M
+
+不匹配:
+输入: The call is scheduled for 2 PM EST
+输出: The call is scheduled for two PM EST
+预期: The call is scheduled for two P M Eastern Standard Time
+
+不匹配:
+输入: The book costs $19.99
+输出: The book costs nineteen point nine nine dollars
+预期: The book costs nineteen dollars and ninety-nine cents
+
+不匹配:
+输入: It's on sale for £10.50
+输出: It's on sale for ten point five pounds
+预期: It's on sale for ten pounds and fifty pence
+
+不匹配:
+输入: 5 + 3 = 8
+输出: five plus three equals eight
+预期: Five plus three equals eight
+
+不匹配:
+输入: 20% of the population
+输出: twenty percent of the population
+预期: Twenty percent of the population
+
+不匹配:
+输入: Hello, world!
+输出: Hello, world!
+预期: Hello world exclamation mark
+
+
+不匹配:
+输入: Is this correct?
+输出: Is this correct?
+预期: Is this correct question mark
+
+不匹配:
+输入: Is this correct?
+输出: Is this correct?
+预期: Is this correct question mark
+
+不匹配:
+预期: Is this correct question mark
+
+不匹配:
+
+不匹配:
+输入: A&B Corporation
+输出: A&B Corporation
+预期: A and B Corporation
+输入: A&B Corporation
+输出: A&B Corporation
+预期: A and B Corporation
+
+预期: A and B Corporation
+
+
+不匹配:
+不匹配:
+输入: Visit www.example.com for more info
+输出: Visit WWW dot example dot com for more info
+预期: Visit w w w dot example dot com for more info
+
+prof.   professor
+Prof.   professor
+Inc.    Incorporated
+inc.    Incorporated
